@@ -21,13 +21,6 @@ we have 100 rows then. So, n-th term = 999, is present.
 999 = 3 + (n-1)x 3
 
 therefore, n= 333.
-
-
-
-
-
-I 
-
 */
 
 ```
